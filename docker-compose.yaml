@@ -47,6 +47,10 @@ networks:
 volumes:
   db_data:
 
+#user_name
+#zabeer
+#pass
 #1234
 
+#command
 #docker-compose up -d
